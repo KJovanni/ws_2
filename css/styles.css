@@ -109,7 +109,7 @@ main .section {
   height: 40vw; }
 
 main .section .article {
-  color: white;
+  color: rgb(53, 53, 53);
   margin-top: 2vw;
   margin-bottom: -7vw;
   display: -webkit-box;
